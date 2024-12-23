@@ -65,7 +65,13 @@ A fully customizable launcher UI that seamlessly integrates with RuneLite, provi
        }
    });
    ```
-4. Add the manifest.json and version.txt to your desired web directory.
+4. Add the manifest.json and version.txt to your desired web directory, you change those fields in the LoginScreen class
+```java
+    private static final String VERSION_URL = "https://valkarin.net/version.txt"; < change to your domain or localhost/ 
+    private static final String MANIFEST_URL = "https://valkarin.net/manifest.json"; < change to your domain or localhost/ 
+    private static final String UPDATE_BASE_URL = "https://valkarin.net/updates/"; < change to your domain or localhost/ 
+    private static final String LOCAL_VERSION_FILE = "version.txt"; 
+```
 
 ## 💻 Configuration
 
