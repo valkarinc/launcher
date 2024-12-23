@@ -65,6 +65,7 @@ A fully customizable launcher UI that seamlessly integrates with RuneLite, provi
        }
    });
    ```
+4. Add the manifest.json and version.txt to your desired web directory.
 
 ## 💻 Configuration
 
