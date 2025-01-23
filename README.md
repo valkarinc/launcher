@@ -129,8 +129,6 @@ Contributions are welcome! To contribute:
 Make sure to:
 - Backup your original RuneLite files before modification.
 - Test in a development environment first.
-- Follow all security guidelines.
-- Keep your RuneLite installation updated.
 
 ## 📬 Contact
 
