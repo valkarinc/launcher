@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![RuneLite](https://img.shields.io/badge/RuneLite-Compatible-brightgreen)
 
-A fully customizable launcher UI that seamlessly integrates with RuneLite, providing a transparent login experience across all RuneLite revisions.
+A fully customizable launcher UI that seamlessly integrates with RuneLite
 
 ## 🌟 Features
 
