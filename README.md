@@ -11,14 +11,13 @@ A fully customizable launcher UI that seamlessly integrates with RuneLite
 - **Custom Login Screen**: Fully integrated login interface
 - **RuneLite Compatible**: Works with all RuneLite versions
 - **Transparent Integration**: Seamless integration with existing RuneLite codebase
-- **Customizable UI**: Easily modifiable interface elements
-- **Secure**: Maintains RuneLite's security standards
+- **Customizable UI**: Easily modifiable interface element
 
 ## 📋 Prerequisites
 
 - Java Development Kit (JDK) 11 or higher
 - RuneLite source code
-- Basic understanding of RuneLite's framework
+- Basic understanding of RuneLite's code
 
 ## 🚀 Installation
 
